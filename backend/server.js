@@ -12,7 +12,7 @@ const app = express()
 
 
 app.use(cors({
-  origin: 'https://practice-project-pi-ten.vercel.app/',
+  origin: 'https://practice-project-pi-ten.vercel.app',
   credentials: true
 }))
 
